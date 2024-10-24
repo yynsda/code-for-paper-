@@ -1,4 +1,4 @@
-# 1026绘制森林图
+# 1024绘制森林图
 ```R
 ###绘制森林图####
 library(tidyverse)
@@ -63,4 +63,4 @@ edit_plot(p,
 
 数据示例![](https://github.com/yynsda/papercode/blob/main/images/102411.jpg)
 
-结果展示![](https://github.com/yynsda/papercode/blob/main/images/102412.jpg)
+结果展示![](images/102412.jpg)
