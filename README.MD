@@ -1,4 +1,5 @@
 # 1024绘制森林图
+
 ```R
 ###绘制森林图####
 library(tidyverse)
@@ -65,4 +66,8 @@ edit_plot(p,
 ![](https://github.com/yynsda/papercode/blob/main/images/102411.jpg)
 结果展示
 ![](images/102412.jpg)
+
+参考文献：[forestploter包，超赞的森林图绘制新R包-CSDN博客](https://blog.csdn.net/qazplm12_3/article/details/125139420)
+
+[7. R语言可视化—基于forestplot包、forestploter包绘制森林图](https://mp.weixin.qq.com/s/3Nn9i4jXVPCkmgOLQZyQDw)
 
