@@ -60,4 +60,7 @@ edit_plot(p,
           row = c(1,2),
           gp = gpar(col = "red", fontface = "bold"))#特定行加粗加色
 ```
-![](https://github.com/yynsda/papercode/blob/main/images/1024.jpg)
+
+数据示例![](https://github.com/yynsda/papercode/blob/main/images/102411.jpg)
+
+结果展示![](https://github.com/yynsda/papercode/blob/main/images/102412.jpg)
